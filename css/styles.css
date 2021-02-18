@@ -62,13 +62,13 @@ a:hover{
 }
 .top-cloud{
   position: absolute;
-  right: 450px;
-  top: 25px;
+  right: 28.125rem;
+  top: 1.5625rem;
 }
 .bottom-cloud{
   position: absolute;
-  left:500px;
-  bottom:350px;
+  left:31.25rem;
+  bottom:21.875rem;
 }
 .contact-me{
   margin-top: 30px;
